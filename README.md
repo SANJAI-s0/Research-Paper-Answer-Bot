@@ -167,8 +167,9 @@ Create a `.env` file in the project root.
 Example:
 
 ```env
-GOOGLE_API_KEY=YOUR_GOOGLE_GEMINI_API_KEY
-MODEL_NAME=gemini-2.5-flash
+GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
+HF_TOKEN=YOUR_HUGGINGFACE_TOKEN
+MODEL_NAME=gemini-flash-latest
 ```
 
 ---
