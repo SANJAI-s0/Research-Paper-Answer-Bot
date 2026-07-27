@@ -345,7 +345,8 @@ Research-Paper-Answer-Bot/
 │   ├── Flow/architecture_workflow.svg    # High-Level Overall Architecture and Work Flow Diagram
 │   ├── deployment.md                     # Deployment guide
 │   ├── evaluation.md                     # Evaluation methodology and results
-│   └── user_manual.md                    # End-user guide
+│   ├── user_manual.md                    # End-user guide
+│   └── Problem/architecture_workflow.svg # Problem Statement
 │
 ├── experiments/                          # Experimental results and benchmarking
 │   ├── experiment_log.csv                # Experiment logs
