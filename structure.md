@@ -28,8 +28,9 @@ Research-Paper-Answer-Bot/
 │
 ├── docs/                                 # Project documentation
 │   ├── screenshots/                      # Application screenshots for README and report
-│   ├── architecture.png                  # High-level system architecture diagram
-│   ├── workflow.png                      # RAG workflow diagram
+│   ├── Flow/architecture.png             # High-level system architecture diagram
+│   ├── Flow/workflow.png                 # RAG workflow diagram
+│   ├── Flow/architecture_workflow.svg    # High-Level Overall Architecture and Work Flow Diagram
 │   ├── deployment.md                     # Deployment guide
 │   ├── evaluation.md                     # Evaluation methodology and results
 │   └── user_manual.md                    # End-user guide
