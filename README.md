@@ -107,7 +107,7 @@ The application is designed for researchers, students, developers, and AI enthus
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Research-Paper-Answer-Bot.git
+git clone https://github.com/SANJAI-s0/Research-Paper-Answer-Bot.git
 ```
 
 ---
