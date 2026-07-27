@@ -16,11 +16,7 @@ An intelligent question-answering system that retrieves relevant information fro
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-success?style=for-the-badge)](YOUR_STREAMLIT_URL)
-
-[![Documentation](https://img.shields.io/badge/📖_Documentation-Available-blue?style=for-the-badge)](docs/user_manual.md)
-
-[![Evaluation](https://img.shields.io/badge/📊_Evaluation-Report-orange?style=for-the-badge)](docs/evaluation.md)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-success?style=for-the-badge)](YOUR_STREAMLIT_URL) [![Documentation](https://img.shields.io/badge/📖_Documentation-Available-blue?style=for-the-badge)](docs/user_manual.md) [![Evaluation](https://img.shields.io/badge/📊_Evaluation-Report-orange?style=for-the-badge)](docs/evaluation.md)
 
 </div>
 
