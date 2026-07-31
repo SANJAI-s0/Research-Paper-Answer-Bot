@@ -411,7 +411,7 @@ Research-Paper-Answer-Bot/
 # 🏗️ System Architecture
 
 <p align="center">
-<img src="docs/screenshots/architecture.png" width="900">
+<img src="docs/Flow/architecture.png" width="900">
 </p>
 
 ---
@@ -419,7 +419,7 @@ Research-Paper-Answer-Bot/
 # 🔄 Workflow
 
 <p align="center">
-<img src="docs/screenshots/Workflow.png" width="900">
+<img src="docs/Flow/Workflow.png" width="900">
 </p>
 
 ---
