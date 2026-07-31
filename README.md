@@ -175,6 +175,28 @@ MODEL_NAME=gemini-flash-latest
 
 ---
 
+## Download Research Papers
+
+If the repository does not include the PDFs, download them automatically.
+
+```bash
+python download_papers.py
+```
+
+Windows users can simply run:
+
+```text
+download_papers.bat
+```
+
+The papers will be downloaded into:
+
+```
+data/raw_papers/
+```
+
+---
+
 # 🗂️ Build the Vector Database
 
 Before running the application, index the research papers.
